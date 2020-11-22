@@ -1,0 +1,39 @@
+body
+{
+    background-color: wheat;
+    font-family: "roboto";
+    
+}
+.navbar {text-align: center;
+    color: brown;
+    
+
+}
+h1
+{text-align: center;
+    color: brown;
+    }
+#coordonnee {
+    text-align: center;
+}
+h2{
+    color: brown;
+    border:groove white;
+}
+h3{
+    color: brown;
+}
+#langue {
+    text-decoration: underline overline #947877;
+}
+h4{
+    color: brown;
+    border:groove white;
+}
+#video {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid white;
+  }
